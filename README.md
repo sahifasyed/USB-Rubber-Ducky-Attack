@@ -1,5 +1,7 @@
 # USB-Rubber-Ducky-Attack
 
+📝 **Grade Awarded**: 72/100 (Distinction)
+
 A proof-of-concept Human-Interface-Device (HID) attack that escalates privileges on a Windows 10 VM.  
 When the Rubber Ducky is inserted, it:
 
