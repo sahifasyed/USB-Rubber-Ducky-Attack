@@ -16,7 +16,7 @@ The full exploit is demonstrated in the accompanying video and documented step-b
 
 ## 📹 Demo Video
 
-📁 [Download the demo video from Google Drive](https://drive.google.com/file/d/VIDEO-ID/view)
+📁 https://drive.google.com/file/d/1KRpmebxnaKvgBPN0bWiJidG5vSjQHcrr/view?usp=sharing
 
 ---
 
